@@ -5,9 +5,18 @@
 </h1>
 
 <h2>👨‍💻 Projetos Cibersegurança:</h2>
-<a href= "">(PENDENTE) ATT&CK Navigator (Argus-Core)</a>
-
-
+<h4>
+<a href= "">1. (PENDENTE) ATT&CK Navigator (Argus-Core)</a>,<br/>
+<a href= "">2. (PENDENTE) Cryptomator</a>,<br/>
+<a href= "">3. (PENDENTE) Cutter</a>,<br/>
+<a href= "">4. (PENDENTE) Dismap</a>,<br/>
+<a href= "">5. (PENDENTE) Faraday</a>,<br/>
+<a href= "">6. (PENDENTE) Hayabusa</a>,<br/>
+<a href= "">7. (PENDENTE) ImHex</a>,<br/>
+<a href= "">8. (PENDENTE) Kubescape</a>,<br/>
+<a href= "">9. (PENDENTE) Matano</a>,<br/>
+<a href= "">10. (PENDENTE) Malwoverview</a>,<br/>
+</h4>
 
 <h2>🤳 Connect with me:</h2>
 
