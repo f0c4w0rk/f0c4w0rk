@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Projetos Cibersegurança:</h2>
 <h4>
-<a href= "">1. (PENDENTE) ATT&CK Navigator (Argus-Core)</a>,<br/>
+<a href= "">1. (PENDENTE) ATT&CK Navigator</a>,<br/>
 <a href= "">2. (PENDENTE) Cryptomator</a>,<br/>
 <a href= "">3. (PENDENTE) Cutter</a>,<br/>
 <a href= "">4. (PENDENTE) Dismap</a>,<br/>
