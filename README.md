@@ -1,6 +1,6 @@
 <h1>
-  Olá, meu nome é Renan. <br/>
-  <a href="https://www.linkedin.com/in/renan-guimar%C3%A3es-mattano-2699b5318/">Programador</a>,
+  Olá, meu nome é Renan. Este é meu repositório principal na perpectiva de um: <br/>
+  <a href="https://www.linkedin.com/in/renan-guimar%C3%A3es-mattano-2699b5318/">Programador</a> e 
   <a href="https://www.instagram.com/renanguimaraesmattano/">Cibersegurança</a>
 </h1>
 
