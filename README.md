@@ -1,10 +1,10 @@
 <h1>
-  Olá, meu nome é Renan. Este é meu repositório principal na perpectiva de um: <br/>
-  <a href="https://www.linkedin.com/in/renan-guimar%C3%A3es-mattano-2699b5318/">Programador</a> e 
+  Meu nome é Renan Guimarães Mattano. Este é o repositório principal deste perfil na perpectiva de um: <br/>
+  <a href="https://www.linkedin.com/in/renan-guimar%C3%A3es-mattano-2699b5318/">Analista SOC</a> e 
   <a href="https://www.instagram.com/renanguimaraesmattano/">Cibersegurança</a>
 </h1>
 
-<h2>👨‍💻 Projetos Cibersegurança:</h2>
+<h2>Projetos Cibersegurança:</h2>
 <h4>
 <a href= "https://github.com/f0c4w0rk/MITRE-ATT-CK-Navigator-Reconnaissance-SOC-Perspective-/tree/main">1. (PENDENTE) ATT&CK Navigator</a>,<br/>
 <a href= "">2. (PENDENTE) Cryptomator</a>,<br/>
